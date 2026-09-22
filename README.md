@@ -1,4 +1,6 @@
-\#for practice from main
+\# My Git Practice
 
-hello, this is my 1st README
+This line is from BRANCH.
+
+Hello, this is my first README.
 
